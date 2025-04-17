@@ -18,20 +18,21 @@ Vide tutoriais do PI.
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
-## Descrição
+# Descrição
 
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Este trabalho apresenta um jogo que criamos como o grupo CodeCrafters. Chamado UrbanMind, o jogo se concentra na construção e evolução de uma cidade inteligente.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
+O projeto tem como objetivo combinar entretenimento e educação, oferecendo aos jogadores uma experiência interativa e desafiadora, onde suas decisões afetam diretamente o crescimento e a sustentabilidade do ambiente urbano.<br><br>
 May the force be with you!
 <br><br>
+## 📖 História do Jogo
+
+O protagonista é um urbanista cheio de ideias inovadoras, sonhando em transformar sua cidade natal em um lugar inteligente e sustentável. No entanto, seus projetos foram rejeitados, com a justificativa de que não eram bons o suficiente. Determinado a mostrar o valor de sua visão, ele se dirige a uma cidade em decadência, onde uma grande corporação está explorando e degradando o local. Lá, ele vê a chance perfeita: restaurar a cidade, colocar suas ideias em prática e provar que é possível construir um futuro melhor. Agora, seu objetivo vai além de ser reconhecido — ele deseja devolver a dignidade à cidade e inspirar uma nova maneira de pensar sobre urbanismo.
 
 ## 🛠 Estrutura de pastas
 
@@ -66,15 +67,6 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Instalação
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
@@ -84,10 +76,6 @@ Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro progra
 Coloque código do prompt de comnando se for necessário
 ```
 
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 💻 Configuração para Desenvolvimento
 
