@@ -16,13 +16,9 @@ Vide tutoriais do PI.
 
 ## Integrantes:<a href= "https://github.com/GianLemes"> Gian Lemes</a>, <a href = "https://github.com/Eliaquimmarcelino"> Eliaquim Marcelino</a>, <a href = "https://github.com/leticia19silva"> Leticia Rodrigues</a>,<a href="https://github.com/poly22-doctom"> Poliany Santos</a>,<a href= "https://github.com/OtSanches"> Otavio Sanches</a>.
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>,<br> <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>,<br> <a href="https://www.linkedin.com/in/">Adriano Felix Valente</a>,<br> <a href="https://www.linkedin.com/in/">Luis Fernando dos Santos Pires</a>,<br> <a href="https://www.linkedin.com/in/">DJoyce Daniele Tavares</a>,<br> <a href= "https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>.
 
 # Descrição
-
-<p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-</p>
 
 
 Este trabalho apresenta um jogo que criamos como o grupo CodeCrafters. Chamado UrbanMind, o jogo se concentra na construção e evolução de uma cidade inteligente.
@@ -39,16 +35,13 @@ O protagonista é um urbanista cheio de ideias inovadoras, sonhando em transform
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
   &emsp;|Documentação.docx<br>
 |-->executáveis<br>
   &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
 |-->imagens<br>
 |-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+  &emsp;|-->códigos gerais <br>
+|.gitignore
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
