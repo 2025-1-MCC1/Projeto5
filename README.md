@@ -1,9 +1,3 @@
-```sh
-Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
-
-Vide tutoriais do PI.
-```
-
 # Projeto 5 - Urban Mind
 
 <p align="center">
@@ -16,19 +10,19 @@ Vide tutoriais do PI.
 
 ## Integrantes:<a href= "https://github.com/GianLemes"> Gian Lemes</a>, <a href = "https://github.com/Eliaquimmarcelino"> Eliaquim Marcelino</a>, <a href = "https://github.com/leticia19silva"> Leticia Rodrigues</a>,<a href="https://github.com/poly22-doctom"> Poliany Santos</a>,<a href= "https://github.com/OtSanches"> Otavio Sanches</a>.
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>,<br> <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>,<br> <a href="https://www.linkedin.com/in/">Adriano Felix Valente</a>,<br> <a href="https://www.linkedin.com/in/">Luis Fernando dos Santos Pires</a>,<br> <a href="https://www.linkedin.com/in/">DJoyce Daniele Tavares</a>,<br> <a href= "https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>.
+## Professores Orientadores:<br> <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>,<br> <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>,<br> <a href="https://www.linkedin.com/in/">Adriano Felix Valente</a>,<br> <a href="https://www.linkedin.com/in/">Luis Fernando dos Santos Pires</a>,<br> <a href="https://www.linkedin.com/in/">DJoyce Daniele Tavares</a>,<br> <a href= "https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>.
 
 # Descrição
 
 
-Este trabalho apresenta um jogo que criamos como o grupo CodeCrafters. Chamado UrbanMind, o jogo se concentra na construção e evolução de uma cidade inteligente.
+▫️Este trabalho apresenta um jogo que criamos como o grupo CodeCrafters. Chamado Urban Mind, o jogo se concentra na construção e evolução de uma cidade inteligente.
 <br><br>
-O projeto tem como objetivo combinar entretenimento e educação, oferecendo aos jogadores uma experiência interativa e desafiadora, onde suas decisões afetam diretamente o crescimento e a sustentabilidade do ambiente urbano.<br><br>
+▫️O projeto tem como objetivo combinar entretenimento e educação, oferecendo aos jogadores uma experiência interativa e desafiadora, onde suas decisões afetam diretamente o crescimento e a sustentabilidade do ambiente urbano.<br><br>
 May the force be with you!
 <br><br>
 ## 📖 História do Jogo
 
-O protagonista é um urbanista cheio de ideias inovadoras, sonhando em transformar sua cidade natal em um lugar inteligente e sustentável. No entanto, seus projetos foram rejeitados, com a justificativa de que não eram bons o suficiente. Determinado a mostrar o valor de sua visão, ele se dirige a uma cidade em decadência, onde uma grande corporação está explorando e degradando o local. Lá, ele vê a chance perfeita: restaurar a cidade, colocar suas ideias em prática e provar que é possível construir um futuro melhor. Agora, seu objetivo vai além de ser reconhecido — ele deseja devolver a dignidade à cidade e inspirar uma nova maneira de pensar sobre urbanismo.
+▫️O protagonista é um urbanista cheio de ideias inovadoras, sonhando em transformar sua cidade natal em um lugar inteligente e sustentável. No entanto, seus projetos foram rejeitados, com a justificativa de que não eram bons o suficiente. Determinado a mostrar o valor de sua visão, ele se dirige a uma cidade em decadência, onde uma grande corporação está explorando e degradando o local. Lá, ele vê a chance perfeita: restaurar a cidade, colocar suas ideias em prática e provar que é possível construir um futuro melhor. Agora, seu objetivo vai além de ser reconhecido — ele deseja devolver a dignidade à cidade e inspirar uma nova maneira de pensar sobre urbanismo.
 
 ## 🛠 Estrutura de pastas
 
@@ -85,7 +79,26 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+<br>
+Você é livre para:
+
+Compartilhar — copiar e redistribuir o material em qualquer meio ou formato.
+Adaptar — remixar, transformar e criar a partir do material para qualquer finalidade, mesmo que comercial.
+Sob os seguintes termos:
+
+Atribuição — Você deve dar o devido crédito, fornecer um link para a licença e indicar se mudanças foram feitas.
+Compartilhar Igual — Se você remixar, transformar, ou criar algo a partir do material, deve distribuir suas contribuições sob a mesma licença que o original.
+<br>
+You are free to:
+Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+Under the following terms:
+Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.<br>
+
 
 ## 🎓 Referências
 
