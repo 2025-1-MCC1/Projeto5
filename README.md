@@ -4,17 +4,17 @@ Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arqu
 Vide tutoriais do PI.
 ```
 
-# FECAP - Fundação de Comércio Álvares Penteado
+# Projeto 5 - Urban Mind
 
 <p align="center">
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Projeto 5 - Urban Mind
+# Nome do Projeto: Urban Mind
 
 ## CodeCrafters
 
-## Integrantes: Gian Lemes, Eliaquim Marcelino, Leticia Rodrigues, Poliany Santos, Otavio Sanches.
+## Integrantes:<a href= "https://github.com/GianLemes"> Gian Lemes</a>, <a href = "https://github.com/Eliaquimmarcelino"> Eliaquim Marcelino</a>, <a href = "https://github.com/leticia19silva"> Leticia Rodrigues</a>,<a href="https://github.com/poly22-doctom"> Poliany Santos</a>,<a href= "https://github.com/OtSanches"> Otavio Sanches</a>.
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
