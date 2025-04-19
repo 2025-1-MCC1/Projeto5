@@ -116,8 +116,8 @@ No additional restrictions — You may not apply legal terms or technological me
 
 Aqui estão as referências usadas no projeto.
 
-1. <a href = "https://docs.unity3d.com/Manual/AnimationOverview.html"></a> Manual Unity
-2. <a href = "https://assetstore.unity.com/packages/3d/environments/urban/polygon-city-low-poly-3d-art-by-synty-95214"></a>Polygon City - Asset Principal
-3. 
-4. 
+1. <a href = "https://docs.unity3d.com/Manual/AnimationOverview.html">Manual Unity</a> 
+2. <a href = "https://assetstore.unity.com/packages/3d/environments/urban/polygon-city-low-poly-3d-art-by-synty-95214">Polygon City - Asset Principal</a>
+3. <a href = "https://github.com/fecaphub/Template_PI">Template PI Fecap</a>
+4. <a href = "https://creativecommons.org/share-your-work/">Creative Commons</a>
 5. 
