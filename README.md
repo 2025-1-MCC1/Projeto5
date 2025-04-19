@@ -118,7 +118,6 @@ Aqui estão as referências usadas no projeto.
 
 1. <a href = "https://docs.unity3d.com/Manual/AnimationOverview.html"></a> Manual Unity
 2. <a href = "https://assetstore.unity.com/packages/3d/environments/urban/polygon-city-low-poly-3d-art-by-synty-95214"></a>Polygon City - Asset Principal
-3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+3. 
+4. 
+5. 
