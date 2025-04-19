@@ -13,7 +13,7 @@
 
 ## Integrantes:<a href= "https://github.com/GianLemes"> Gian Lemes</a>, <a href = "https://github.com/Eliaquimmarcelino"> Eliaquim Marcelino</a>, <a href = "https://github.com/leticia19silva"> Leticia Rodrigues</a>,<a href="https://github.com/poly22-doctom"> Poliany Santos</a>,<a href= "https://github.com/OtSanches"> Otavio Sanches</a>.
 
-## Professores Orientadores:<br> <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>,<br> <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>,<br> <a href="https://www.linkedin.com/in/">Adriano Felix Valente</a>,<br> <a href="https://www.linkedin.com/in/">Luis Fernando dos Santos Pires</a>,<br> <a href="https://www.linkedin.com/in/">DJoyce Daniele Tavares</a>,<br> <a href= "https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>.
+## Professores Orientadores:<br> <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>,<br> <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>,<br> <a href="https://www.linkedin.com/in/adriano-valente-534576135">Adriano Felix Valente</a>,<br> <a href="https://www.linkedin.com/in/luisspires">Luis Fernando dos Santos Pires</a>,<br> <a href="https://www.linkedin.com/in/">Joyce Daniele Tavares</a>,<br> <a href= "https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>.
 
 # Descrição
 
@@ -116,8 +116,8 @@ No additional restrictions — You may not apply legal terms or technological me
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
+1. <a href = "https://docs.unity3d.com/Manual/AnimationOverview.html"></a> Manual Unity
+2. <a href = "https://assetstore.unity.com/packages/3d/environments/urban/polygon-city-low-poly-3d-art-by-synty-95214"></a>Polygon City - Asset Principal
 3. <https://chooser-beta.creativecommons.org/>
 4. <https://freesound.org/>
 5. <https://www.toptal.com/developers/gitignore>
