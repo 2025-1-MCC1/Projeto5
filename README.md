@@ -11,7 +11,7 @@
 
 # CodeCrafters
 
-## Integrantes:<a href= "https://github.com/GianLemes"> Gian Lemes</a>, <a href = "https://github.com/Eliaquimmarcelino"> Eliaquim Marcelino</a>, <a href = "https://github.com/leticia19silva"> Leticia Rodrigues</a>,<a href="https://github.com/poly22-doctom"> Poliany Santos</a>,<a href= "https://github.com/OtSanches"> Otavio Sanches</a>.
+## Integrantes:<a href= "https://github.com/GianLemes"> Gian Lemes</a>, <a href = "https://github.com/Eliaquimmarcelino"> Eliaquim Marcelino</a>, <a href = "https://github.com/leticia19silva"> Leticia Rodrigues</a>,<a href="https://github.com/poly22-doctom"> Polianny Santos</a>,<a href= "https://github.com/OtSanches"> Otavio Sanches</a>.
 
 ## Professores Orientadores:<br> <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>,<br> <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>,<br> <a href="https://www.linkedin.com/in/adriano-valente-534576135">Adriano Felix Valente</a>,<br> <a href="https://www.linkedin.com/in/luisspires">Luis Fernando dos Santos Pires</a>,<br> <a href="https://www.linkedin.com/in/">Joyce Daniele Tavares</a>,<br> <a href= "https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>.
 
