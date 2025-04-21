@@ -23,62 +23,45 @@
 ▫️O projeto tem como objetivo combinar entretenimento e educação, oferecendo aos jogadores uma experiência interativa e desafiadora, onde suas decisões afetam diretamente o crescimento e a sustentabilidade do ambiente urbano.<br><br>
 May the force be with you!
 <br><br>
+
 ## 📖 História do Jogo
 
 ▫️O protagonista é um urbanista cheio de ideias inovadoras, sonhando em transformar sua cidade natal em um lugar inteligente e sustentável. No entanto, seus projetos foram rejeitados, com a justificativa de que não eram bons o suficiente. Determinado a mostrar o valor de sua visão, ele se dirige a uma cidade em decadência, onde uma grande corporação está explorando e degradando o local. Lá, ele vê a chance perfeita: restaurar a cidade, colocar suas ideias em prática e provar que é possível construir um futuro melhor. Agora, seu objetivo vai além de ser reconhecido — ele deseja devolver a dignidade à cidade e inspirar uma nova maneira de pensar sobre urbanismo.
+<br><br>
 
 # 🛠 Estrutura de pastas
 
 -Raiz<br>
 |-->documentos<br>
-  &emsp;|Documentação.docx<br>
+  &emsp;|-->Entraga 1 <br>
+  &emsp;  &emsp;|-Algoritmos e Lógica da Programação <br>
+  &emsp;  &emsp;|-Cálculo I <br>
+  &emsp;  &emsp;|-Jogos Digitais e Sistemas Digitais Interativos <br>
+  &emsp;  &emsp;|-Projeto Interdisciplinar - Jogos Digitais <br>
+  &emsp;  &emsp;|-Ética e Pensamento Computacional <br>
 |-->imagens<br>
+  &emsp;|-icon provisório<br>
+  &emsp;|-menu provisório<br>
 |-->executáveis<br>
-  &emsp;|-->windows<br>
+  &emsp;|-link para o arquivo .rar dos executáveis<br>
 |-->src<br>
-  &emsp;|-->códigos gerais <br>
-|.gitignore<br>
-|readme.md<br>
+  &emsp;|-link para o arquivo .rar do projeto<br>
+|-.gitignore<br>
+|-readme.md<br>
+<br>
 
-A pasta raiz contem dois arquivos que devem ser alterados:
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
 
 ## 🛠 Instalação
 
 <b>Windows:</b>
 
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Não há instalação! Apenas executável!<br>
+Entre na pasta executável, e após isso no txt dentro dela.<br>
+Entre no link do drive dentro dela e faça o download do .rar<br>
+Descompacte o .rar e após isso é só encontrar dentro da pasta descopactada<br>
+o Aplicativo .exe do jogo e rodar ele.<br>
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
 
-
-# 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
 <br>
 
 # 📋 Licença/License
@@ -120,4 +103,3 @@ Aqui estão as referências usadas no projeto.
 2. <a href = "https://assetstore.unity.com/packages/3d/environments/urban/polygon-city-low-poly-3d-art-by-synty-95214">Polygon City - Asset Principal</a>
 3. <a href = "https://github.com/fecaphub/Template_PI">Template PI Fecap</a>
 4. <a href = "https://creativecommons.org/share-your-work/">Creative Commons</a>
-5. 
