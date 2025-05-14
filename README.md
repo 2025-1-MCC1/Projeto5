@@ -11,7 +11,7 @@
 
 # CodeCrafters
 
-## Integrantes:<a href= "https://github.com/GianLemes"> Gian Lemes</a>, <a href = "https://github.com/Eliaquimmarcelino"> Eliaquim Marcelino</a>, <a href = "https://github.com/leticia19silva"> Leticia Rodrigues</a>,<a href="https://github.com/poly22-doctom"> Polianny Santos</a>,<a href= "https://github.com/OtSanches"> Otavio Sanches</a>.
+## Integrantes:<a href= "https://github.com/GianLemes"> Gian Lemes</a>, <a href = "https://github.com/leticia19silva"> Leticia Rodrigues</a>,<a href="https://github.com/poly22-doctom"> Polianny Santos</a>.
 
 ## Professores Orientadores:<br> <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>,<br> <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>,<br> <a href="https://www.linkedin.com/in/adriano-valente-534576135">Adriano Felix Valente</a>,<br> <a href="https://www.linkedin.com/in/luisspires">Luis Fernando dos Santos Pires</a>,<br> <a href="https://www.linkedin.com/in/">Joyce Daniele Tavares</a>,<br> <a href= "https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>.
 
@@ -65,35 +65,8 @@ o Aplicativo .exe do jogo e rodar ele.<br>
 <br>
 
 # 📋 Licença/License
-Esse trabalho é licenciado por: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
-
-This work is licensed under: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
-
-<br>
-▫️Você é livre para:
-
-Compartilhar — Copiar e redistribuir o material em qualquer meio ou formato para qualquer finalidade, mesmo comercialmente.<br>
-Adaptar — Remixar, transformar e criar a partir do material para qualquer finalidade, mesmo comercialmente.<br>
-O licenciador não pode revogar essas liberdades desde que você siga os termos da licença.
-
-Sob os seguintes termos:
-
-Atribuição — Você deve dar o crédito apropriado, fornecer um link para a licença e indicar se alterações foram feitas. Você pode fazer isso de maneira razoável, mas não de forma que sugira que o licenciador endossa você ou seu uso.<br>
-Compartilhamento pela mesma licença — Se você remixar, transformar ou criar a partir do material, deverá distribuir suas contribuições sob a mesma licença do original.<br>
-Sem restrições adicionais — Você não pode aplicar termos legais ou medidas tecnológicas que restrinjam legalmente outros de fazerem algo que a licença permita.
+<a href="https://creativecommons.org">Urban Mind</a> © 1999 by <a href="https://creativecommons.org">CodeCrafters</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 <br><br>
-▫️You are free to:
-
-Share — Copy and redistribute the material in any medium or format for any purpose, even commercially.<br>
-Adapt — Remix, transform, and build upon the material for any purpose, even commercially.<br>
-The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-Under the following terms:
-
-Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.<br>
-ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.<br>
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.<br><br>
-
 
 # 🎓 Referências
 
