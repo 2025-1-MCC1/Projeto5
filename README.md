@@ -65,9 +65,10 @@ o Aplicativo .exe do jogo e rodar ele.<br>
 <br>
 
 # 📋 Licença/License
-FECAP - Fundação de Comércio Álvares Penteado<br>
-<a href= "https://github.com/GianLemes"> Gian Lemes</a>, <a href = "https://github.com/leticia19silva"> Leticia Rodrigues</a>,<a href="https://github.com/poly22-doctom"> Polianny Santos</a>.<br><br>
-<a href="https://creativecommons.org">Urban Mind</a> © 1999 by <a href="https://creativecommons.org">CodeCrafters</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href= "https://www.fecap.br/"> FECAP - Fundação de Comércio Álvares Penteado</a>.
+<br>
+<a href= "https://github.com/GianLemes"> Gian Carlos Lemes Vieira</a>, <a href = "https://github.com/leticia19silva"> Leticia Rodrigues da Silva</a>,<a href="https://github.com/poly22-doctom"> Polianny Santos da Silva</a>.<br><br>
+<a href="https://creativecommons.org">Urban Mind</a> © 2025 by <a href="https://creativecommons.org">CodeCrafters</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 <br><br>
 
 # 🎓 Referências
