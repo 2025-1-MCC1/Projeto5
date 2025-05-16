@@ -7,7 +7,9 @@
 </p>
 
 # Nome do Projeto: Urban Mind
-<br><br>
+<br>
+<p align="center">
+<a href="https://ibb.co/27YxTrDR"><img src="https://i.ibb.co/HDp6jyWR/urban-mind-imagem.png" alt="Urban Mind" border="0"></a>
 
 # CodeCrafters
 
