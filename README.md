@@ -28,7 +28,7 @@ May the force be with you!
 
 ## 📖 História do Jogo
 
-▫️O protagonista é um urbanista cheio de ideias inovadoras, sonhando em transformar sua cidade natal em um lugar inteligente e sustentável. No entanto, seus projetos foram rejeitados, com a justificativa de que não eram bons o suficiente. Determinado a mostrar o valor de sua visão, ele se dirige a uma cidade em decadência, onde uma grande corporação está explorando e degradando o local. Lá, ele vê a chance perfeita: restaurar a cidade, colocar suas ideias em prática e provar que é possível construir um futuro melhor. Agora, seu objetivo vai além de ser reconhecido — ele deseja devolver a dignidade à cidade e inspirar uma nova maneira de pensar sobre urbanismo.
+▫️O protagonista é um urbanista cheio de ideias inovadoras, sonhando em transformar sua cidade natal em um lugar inteligente e sustentável. No entanto, seus projetos foram rejeitados, com a justificativa de que não eram bons o suficiente. Determinado a mostrar o valor de sua visão, ele se dirige a uma cidade com diversos problemas. Lá, ele vê a chance perfeita: restaurar a cidade, colocar suas ideias em prática e provar que é possível construir um futuro melhor. Agora, seu objetivo vai além de ser reconhecido — ele deseja devolver a dignidade à cidade e inspirar uma nova maneira de pensar sobre urbanismo.
 <br><br>
 
 # 🛠 Estrutura de pastas
@@ -41,13 +41,20 @@ May the force be with you!
   &emsp;  &emsp;|-Jogos Digitais e Sistemas Digitais Interativos <br>
   &emsp;  &emsp;|-Projeto Interdisciplinar - Jogos Digitais <br>
   &emsp;  &emsp;|-Ética e Pensamento Computacional <br>
+  &emsp;|-->Entraga 2 <br>
+  &emsp;  &emsp;|-Algoritmos e Lógica da Programação <br>
+  &emsp;  &emsp;|-Cálculo I <br>
+  &emsp;  &emsp;|-Jogos Digitais e Sistemas Digitais Interativos <br>
+  &emsp;  &emsp;|-Projeto Interdisciplinar - Jogos Digitais <br>
+  &emsp;  &emsp;|-Ética e Pensamento Computacional <br>
 |-->imagens<br>
-  &emsp;|-icon provisório<br>
-  &emsp;|-menu provisório<br>
+  &emsp;|-icon do jogo<br>
+  &emsp;|-imagem de final<br>
+  &emsp;|-imagem do menu<br>
 |-->executáveis<br>
-  &emsp;|-link para o arquivo .rar dos executáveis<br>
+  &emsp;|-link para o arquivo .rar do exexutável<br>
 |-->src<br>
-  &emsp;|-link para o arquivo .rar do projeto<br>
+  &emsp;|-arquivos do projeto<br>
 |-.gitignore<br>
 |-readme.md<br>
 <br>
@@ -60,17 +67,16 @@ May the force be with you!
 Não há instalação! Apenas executável!<br>
 Entre na pasta executável, e após isso no txt dentro dela.<br>
 Entre no link do drive dentro dela e faça o download do .rar<br>
-Descompacte o .rar e após isso é só encontrar dentro da pasta descopactada<br>
-o Aplicativo .exe do jogo e rodar ele.<br>
+Descompacte o .rar e após isso é só encontrar<br>
+dentro da pasta descopactadao Aplicativo .exe do jogo e rodar ele.<br>
 
 
 <br>
 
 # 📋 Licença/License
 <a href= "https://www.fecap.br/"> FECAP - Fundação de Comércio Álvares Penteado</a>.
-<br>
-<a href= "https://github.com/GianLemes"> Gian Carlos Lemes Vieira</a>, <a href = "https://github.com/leticia19silva"> Leticia Rodrigues da Silva</a>,<a href="https://github.com/poly22-doctom"> Polianny Santos da Silva</a>.<br><br>
-<a href="https://creativecommons.org">Urban Mind</a> © 2025 by <a href="https://creativecommons.org">CodeCrafters</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<br><br>
+<a href="https://creativecommons.org">Urban Mind</a> © 2025 by <a href= "https://github.com/GianLemes"> Gian Carlos Lemes Vieira</a>, <a href = "https://github.com/leticia19silva"> Leticia Rodrigues da Silva</a>,<a href="https://github.com/poly22-doctom"> Polianny Santos da Silva</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 <br><br>
 
 # 🎓 Referências
@@ -80,4 +86,7 @@ Aqui estão as referências usadas no projeto.
 1. <a href = "https://docs.unity3d.com/Manual/AnimationOverview.html">Manual Unity</a> 
 2. <a href = "https://assetstore.unity.com/packages/3d/environments/urban/polygon-city-low-poly-3d-art-by-synty-95214">Polygon City - Asset Principal</a>
 3. <a href = "https://github.com/fecaphub/Template_PI">Template PI Fecap</a>
-4. <a href = "https://creativecommons.org/share-your-work/">Creative Commons</a>
+4. <a href = "https://creativecommons.org">Creative Commons</a>
+5. <a href = "https://www.chosic.com/free-music/all/?keyword=Loyalty%20Freak%20Music&artist">Loyalty Freak Music</a>
+6. <a href = "https://chatgpt.com">ChatGPT</a>
+7. <a href = "https://assetstore.unity.com">Asset Store Unity</a>
